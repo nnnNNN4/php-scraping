@@ -12,7 +12,7 @@ phpを使用したスクレイピングができたら何かに応用できる�
 ・crawler<br>
 ・goutte</br>
 
-```git clone```した後に```php-scraiping/crawsel```に移動して```php hoikushibank.php```で実行すれば起動するかと思います。
+```git clone```した後に```php-scraiping/crawler```に移動して```php hoikushibank.php```で実行すれば起動するかと思います。
 
 おそらく、Macでもphpがインストールされていれば動作すると思います。（試してないため）
 
